@@ -63,8 +63,36 @@ export const data = [
             "role": "User"
         },
         {
-            "Id": "9",
-            "name": "Gokul",
+            "Id": "11",
+            "name": "balaji",
+            "email": "Bro",
+            "password": "123456",
+            "role": "User"
+        },
+        {
+            "Id": "12",
+            "name": "Sri",
+            "email": "Bro",
+            "password": "123456",
+            "role": "User"
+        },
+        {
+            "Id": "13",
+            "name": "Bala",
+            "email": "Bro",
+            "password": "123456",
+            "role": "User"
+        },
+        {
+            "Id": "14",
+            "name": "Chandru",
+            "email": "Bro",
+            "password": "123456",
+            "role": "User"
+        },
+        {
+            "Id": "15",
+            "name": "Pradbhakumar",
             "email": "Bro",
             "password": "123456",
             "role": "User"
